@@ -1,0 +1,8 @@
+To create a new branch
+git checkout -b <branch-name>
+
+To change a branch
+git checkout <branch-name>
+
+
+git push origin <branch-name>
